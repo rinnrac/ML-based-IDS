@@ -9,3 +9,11 @@ Key Features
   Model saving and deployment support
   Real-time intrusion detection capability
   Scalable and adaptable cybersecurity solution
+Technologies Used
+  Python
+  TensorFlow / Keras
+  NumPy
+  Pandas
+  Scikit-learn
+  Matplotlib
+  Deep Learning (FFNN, Hybrid CNN-LSTM Architecture)
