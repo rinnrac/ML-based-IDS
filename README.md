@@ -17,3 +17,5 @@ Technologies Used
   Scikit-learn
   Matplotlib
   Deep Learning (FFNN, Hybrid CNN-LSTM Architecture)
+Dataset
+CSE-CIC-IDS2018 Dataset
