@@ -19,3 +19,11 @@ Technologies Used
   Deep Learning (FFNN, Hybrid CNN-LSTM Architecture)
 Dataset
 CSE-CIC-IDS2018 Dataset
+Results
+
+The improved hybrid model achieved outstanding performance with approximately:
+
+Accuracy: 99.92%
+Precision: 99.89%
+Recall: 99.95%
+F1-Score: 99.92%
