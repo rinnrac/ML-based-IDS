@@ -1,0 +1,1 @@
+This project presents a Machine Learning-Based Intrusion Detection System (IDS) designed to identify and classify malicious network activities in real time. The system utilizes deep learning techniques to analyze network traffic and detect cyber threats such as Denial of Service (DoS) attacks, helping improve network security and threat response capabilities.
