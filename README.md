@@ -27,3 +27,5 @@ Accuracy: 99.92%
 Precision: 99.89%
 Recall: 99.95%
 F1-Score: 99.92%
+
+This project demonstrates how machine learning and deep learning can be effectively applied to modern cybersecurity challenges, providing an intelligent and adaptive approach to intrusion detection.
